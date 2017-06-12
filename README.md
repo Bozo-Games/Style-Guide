@@ -1,6 +1,6 @@
 # Bozo Games Style Guide
 
 - Colors
-- [Tutorials](tutorials.md)
+- [Tutorials](docs/tutorials.md)
 - Assets
 - Services
