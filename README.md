@@ -1,1 +1,5 @@
-# Style-Guide
+# Bozo Games Style Guide
+======
+- Colors
+- Tutorials
+- Assets
